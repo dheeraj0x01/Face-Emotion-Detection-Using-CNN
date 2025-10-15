@@ -1,0 +1,17 @@
+numpy
+opencv-contrib-python
+pillow
+matplotlib
+scipy
+scikit-learn
+pandas
+scikit-image
+imutils
+tqdm
+h5py
+seaborn
+albumentations
+tensorflow
+torch
+dlib
+face-recognition
